@@ -20,6 +20,7 @@ I'm always eager to connect with fellow students, mentors, and tech enthusiasts.
 
 - 📧 **Email:** [anfaalmm992@gmail.com](mailto:anfaalmm992@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/anfaaltech](https://www.linkedin.com/in/anfaaltech/)
+- 🎯 **Portfolio:**[anfaal.portfolio](https://anfaalresearch.github.io/Portfolio/)
 - 📍 **Location:** Kozhikode, Kerala
 
 <br/>
